@@ -10,7 +10,7 @@ Custom actions for use with SourceTree (or any other git based GUI)
 <li>Click the Add button</li>
 <li>For Menu caption, enter "Quick Release" (or whatever you want to call it)</li>
 <li>For Script to run, enter the path to the quick-release.bat file from this repository</li>
-<li>For Parametesr, enter $REPO</li>
+<li>For Parameters, enter $REPO</li>
 <li>Click OK to save</li>
 </ol>
 
