@@ -5,7 +5,7 @@ Custom actions for use with SourceTree (or any other git based GUI)
 <p>This custom action will merge your develop branch into the master branch without going through the Release Branch workflows.</p>
 
 <h3>Installation:</h3>
-<p>![SourceTree Add Dialog Example](./images/add-dialog.PNG?raw=true "SourceTree Add Dialog")</p>
+![SourceTree Add Dialog Example](images/add-dialog.PNG?raw=true "SourceTree Add Dialog")
 <ol>
 <li>In SourceTree, go to Tools > Options > Custom Actions (tab)</li>
 <li>Click the Add button</li>
