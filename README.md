@@ -2,7 +2,7 @@
 Custom actions for use with SourceTree on Windows (or any other git based GUI)
 
 <h2>GitFlow Quick Release</h2>
-<p>This custom action will merge your develop branch into the master branch without going through the Release Branch workflows.</p>
+<p>This custom action will merge your develop branch into the master branch without going through the Release Branch workflows. This is meant to be used with SSH keys so you don't have to worry about entering credentials every time.</p>
 
 <h3>Installation:</h3>
 ![SourceTree Add Dialog Example](images/add-dialog.PNG?raw=true "SourceTree Add Dialog")
