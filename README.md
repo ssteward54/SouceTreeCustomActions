@@ -1,5 +1,5 @@
 # SouceTree Custom Actions
-Custom actions for use with SourceTree (or any other git based GUI)
+Custom actions for use with SourceTree on Windows (or any other git based GUI)
 
 <h2>GitFlow Quick Release</h2>
 <p>This custom action will merge your develop branch into the master branch without going through the Release Branch workflows.</p>
