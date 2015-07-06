@@ -16,6 +16,7 @@ Custom actions for use with SourceTree (or any other git based GUI)
 </ol>
 
 <h3>Usage:</h3>
+![SourceTree Custom Actions Dialog](images/custom-actions-dialog.PNG?raw=true "SourceTree Custom Actions Dialog")
 <ol>
 <li>In SourceTree, from the repository you want to do a quick release on, simply right click in the History view, choose Custom Actions > Quick Release.</li>
 <li>This does a pull on develop and master branches, then merges develop into master, and checks out develop again to make sure you don't forget to keep working in develop.</li>
