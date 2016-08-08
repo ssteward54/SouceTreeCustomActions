@@ -1,4 +1,4 @@
-cd /D %1
+cd %1
 git checkout develop
 git pull
 git checkout master
